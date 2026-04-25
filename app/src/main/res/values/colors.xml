@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Colors -->
+    <color name="primary_purple">#8B5CF6</color>
+    <color name="primary_indigo">#6366F1</color>
+    <color name="primary_dark">#4F46E5</color>
+
+    <!-- Accent Colors -->
+    <color name="accent_soft_blue">#93C5FD</color>
+    <color name="accent_neon_purple">#C084FC</color>
+
+    <!-- Background and Surface -->
+    <color name="background_light">#F9FAFB</color>
+    <color name="surface_white">#FFFFFF</color>
+    <color name="card_stroke">#E0E7FF</color> <!-- Light Indigo for subtle stroke -->
+    <color name="primary_stroke">#6366F1</color> <!-- Primary Indigo stroke -->
+
+    <!-- Text Colors -->
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_hint">#9CA3AF</color>
+
+    <!-- Status Colors -->
+    <color name="status_developing">#EEF2FF</color>
+    <color name="status_developing_text">#6366F1</color>
+    <color name="status_draft">#F3F4F6</color>
+    <color name="status_draft_text">#6B7280</color>
+    <color name="status_completed">#ECFDF5</color>
+    <color name="status_completed_text">#10B981</color>
+
+    <!-- Priority Colors -->
+    <color name="priority_high">#FEE2E2</color>
+    <color name="priority_high_text">#EF4444</color>
+    <color name="priority_medium">#EFF6FF</color>
+    <color name="priority_medium_text">#3B82F6</color>
+    <color name="priority_low">#F3F4F6</color>
+    <color name="priority_low_text">#6B7280</color>
+
+    <!-- Danger Zone -->
+    <color name="danger_red">#EF4444</color>
+    <color name="danger_red_soft">#FEF2F2</color>
+</resources>
