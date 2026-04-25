@@ -69,4 +69,4 @@ IdeaFlow is a premium Android application designed to help creators, developers,
 
 ---
 
-Developed with ❤️ by Rohan S.
+## Developed with ❤️ by Rohan Rusho
