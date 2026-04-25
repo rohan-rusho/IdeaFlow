@@ -45,6 +45,12 @@ IdeaFlow is a premium Android application designed to help creators, developers,
   <img src="app/SS/Screenshot_20260425_185830.png" width="30%" alt="Empty State" />
 </p>
 
+<p align="center">
+  <img src="app/SS/Screenshot_20260425_185846.png" width="30%" alt="Splash Screen" />
+  <img src="app/SS/Screenshot_20260425_185859.png" width="30%" alt="Confirmation" />
+  <img src="app/SS/Screenshot_20260425_185901.png" width="30%" alt="Empty State" />
+</p>
+
 ---
 
 ## 🛠️ Built With
